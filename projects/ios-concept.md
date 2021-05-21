@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/markus-spiske-516263-unsplash.jpg"
+thumbnail: "/uploads/insta-1.png"
 title: Porta400
 date: 2019-01-03
 categories:
@@ -9,4 +9,4 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-![](/uploads/markus-spiske-516263-unsplash.jpg)
+![](/uploads/insta-1.png)
